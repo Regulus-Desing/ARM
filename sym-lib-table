@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-08-30_23-17-27")(type "KiCad")(uri "C:/Users/Admin/Documents/Programas/KiCad/Projets/ul_PTS18126V300/2025-08-30_23-17-27.kicad_sym")(options "")(descr ""))
+  (lib (name "4-1437565-9")(type "KiCad")(uri "C:/Users/Admin/Documents/Programas/KiCad/Projets/4-1437565-9/4-1437565-9.kicad_sym")(options "")(descr ""))
+  (lib (name "G823MB06221KYEU")(type "KiCad")(uri "C:/Users/Admin/Documents/Programas/KiCad/Projets/G823MB06221KYEU/G823MB06221KYEU.kicad_sym")(options "")(descr ""))
+  (lib (name "FTSH-102-01-G-DV")(type "KiCad")(uri "C:/Users/Admin/Documents/Programas/KiCad/Projets/FTSH-102-01-G-DV/FTSH-102-01-G-DV.kicad_sym")(options "")(descr ""))
+  (lib (name "1812L110_24DR")(type "KiCad")(uri "C:/Users/Admin/Documents/Programas/KiCad/Projets/1812L110_24DR/1812L110_24DR.kicad_sym")(options "")(descr ""))
+)
